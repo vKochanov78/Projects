@@ -2,6 +2,7 @@
 Here I'll store all the projects I made.
 Sorted by newest project.
 
+
 1. [Event Application](https://github.com/vKochanov78/EventApp) <br />
 1. [Car Dealer](https://github.com/vKochanov78/Car-Dealer-Website) <br />
 2. [Fruitpedia](https://github.com/vKochanov78/FruitpediaWebApp) <br />
