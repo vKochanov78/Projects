@@ -2,7 +2,7 @@
 Here I'll store all the projects I made.
 Sorted by newest project first.
 
-1. [Restaurant Web Application](https://github.com/vKochanov78/RestaurantWebApp) <br /> - > Currently in process.
+1. [Restaurant Web Application](https://github.com/vKochanov78/RestaurantWebApp) <br /> - > Currently in paused.
 2. [Event Web Application](https://github.com/vKochanov78/EventApp) <br />
 3. [Car Dealer](https://github.com/vKochanov78/Car-Dealer-Website) <br />
 4. [Fruitpedia](https://github.com/vKochanov78/FruitpediaWebApp) <br />
